@@ -1,7 +1,6 @@
 # 🚀 100 Days of Code in C++  
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/InsaneAbhinav/100DaysOfCode-Cpp-UPES)](https://github.com/InsaneAbhinav/100DaysOfCode-Cpp-UPES)  
-[![GitHub repo size](https://img.shields.io/github/repo-size/InsaneAbhinav/100DaysOfCode-Cpp-UPES)](https://github.com/InsaneAbhinav/100DaysOfCode-Cpp-UPES)  
 ![Language](https://img.shields.io/badge/language-C%2B%2B-blue)  
 
 ---
