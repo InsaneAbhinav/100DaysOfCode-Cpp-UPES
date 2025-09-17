@@ -1,4 +1,4 @@
-// Write a program to calculate simple and compound interest for given principal, rate, and time.
+//Q1: Write a program to calculate simple and compound interest for given principal, rate, and time.
 
 #include <stdio.h>
 #include <math.h> // Needed for pow() function
