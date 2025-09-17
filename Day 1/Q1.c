@@ -1,7 +1,6 @@
 // Q1: Write a program to input two numbers and display their sum.
 
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 int sum(int a, int b) {
     return a + b;
@@ -9,8 +8,8 @@ int sum(int a, int b) {
 
 int main() {
     int a, b;
-    cout << "Enter two numbers: ";
-    cin >> a >> b;
-    cout << "Sum = " << sum(a, b) << endl;
+    printf("Enter two numbers: ");
+    scanf("%d %d", &a, &b);
+    printf("Sum = %d\n", sum(a, b));
     return 0;
 }
