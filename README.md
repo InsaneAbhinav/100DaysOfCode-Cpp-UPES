@@ -1,18 +1,18 @@
-# 🚀 100 Days of Code in C++  
+# 🚀 100 Days of Code in C  
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/InsaneAbhinav/100DaysOfCode-Cpp-UPES)](https://github.com/InsaneAbhinav/100DaysOfCode-Cpp-UPES)  
-![Language](https://img.shields.io/badge/language-C%2B%2B-blue)  
+[![GitHub last commit](https://img.shields.io/github/last-commit/InsaneAbhinav/100DaysOfCode-C-UPES)](https://github.com/InsaneAbhinav/100DaysOfCode-C-UPES)  
+![Language](https://img.shields.io/badge/language-C-blue)  
 
 ---
 
 ## 📌 About  
-This repository documents my **#100DaysOfCode** journey in **C++**. Each day I solve at least one problem — from basic input/output to advanced OOP — to strengthen fundamentals, problem-solving, and consistency.  
+This repository documents my **#100DaysOfCode** journey in **C**. Each day I solve at least one problem — from basic input/output to advanced concepts — to strengthen fundamentals, problem-solving, and consistency.  
 
 ---
 
 ## 🗂️ Structure  
 - 📝 **Problem Statements** included as comments at the top of each file  
-- 🖥️ **Solutions in C++** with clean, readable code  
+- 🖥️ **Solutions in C** with clean, readable code  
 - ✅ **Tested with sample cases** before pushing to GitHub  
 - 🔗 **Progress shared** every 10 questions  
 
@@ -23,13 +23,13 @@ This repository documents my **#100DaysOfCode** journey in **C++**. Each day I s
 - Arithmetic operators  
 - Control statements & loops  
 - Functions & arrays  
-- Object-Oriented Programming (OOP)  
+- Pointers & structures  
 - …and more to come  
 
 ---
 
 ## 🚀 Goals  
-- Strengthen core C++ concepts  
+- Strengthen core **C** concepts  
 - Build daily discipline and accountability  
 - Maintain a public record of growth  
 - Share learnings with the developer community  
